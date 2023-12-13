@@ -1,0 +1,10 @@
+{
+	"authorization": {"token":"102030", "expiresIn": "3600"},
+	"posts": [
+		{"id":1, "title":"Title post n1"},
+		{"id":2, "title":"Title post n2"},
+		{"id":3, "title":"Title post n3"},
+		{"id":4, "title":"Title post n4"},
+		{"id":5, "title":"Title post n5"}
+	]
+}
